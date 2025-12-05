@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k21rs012&show_icons=true&theme=tokyonight"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k21rs012&layout=compact&theme=tokyonight"></p>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=k21rs012&show_icons=true&theme=tokyonight"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k21rs012&layout=compact&theme=tokyonight"></p> -->
   <img src="https://github-profile-trophy.vercel.app/?username=k21rs012&theme=juicyfresh&no-bg=true">
 </div>
 
